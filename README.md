@@ -13,5 +13,5 @@ This is a shell script example for sending HipChat room notification.
 
 ## Usage
 ```console
-./hipchat-send-notification.sh MESSAGE
+./hipchat-send-notification.sh FROM MESSAGE
 ```
